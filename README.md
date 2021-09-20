@@ -1,6 +1,6 @@
 # Git-Tutorial-DevOps test
 
-## 1.Git
+## Basic Git
 
 ### command
 
@@ -23,6 +23,39 @@
 ![image](https://user-images.githubusercontent.com/41546139/134037077-7bcb2fea-c5ad-4bf2-8c6c-2d5e76636513.png)
 ![image](https://user-images.githubusercontent.com/41546139/134037125-6bba2c30-cadf-4190-9e81-1377c59f91ca.png)
 ![image](https://user-images.githubusercontent.com/41546139/134037163-c2dc172f-8dbd-4494-bcc1-383e5e9916ed.png)
+
+![image](https://user-images.githubusercontent.com/41546139/134038150-4c76a700-643f-49a5-85f6-fc7f46418325.png)
+
+## Continuous Integration
+
+![image](https://user-images.githubusercontent.com/41546139/134038385-89907768-0003-49ce-aa60-954c0d229074.png)
+
+## Continuous Delivery
+
+![image](https://user-images.githubusercontent.com/41546139/134038887-3765bd7b-df33-4d75-a5a8-3cc18d935794.png)
+
+## Continuous Deployment
+
+![image](https://user-images.githubusercontent.com/41546139/134038988-d1292d57-221b-4227-8039-8d60bad248f0.png)
+
+## Configuration Management
+
+![image](https://user-images.githubusercontent.com/41546139/134040721-09ce0f70-549f-4836-bd88-4373510473d7.png)
+![image](https://user-images.githubusercontent.com/41546139/134041204-81fe4994-d2b7-4d4e-9d06-6301847215ca.png)
+
+## Containerization
+
+![image](https://user-images.githubusercontent.com/41546139/134041690-0b435bbb-8980-4bfd-982f-cfc10334db55.png)
+
+## Continuous Monitoring
+
+![image](https://user-images.githubusercontent.com/41546139/134042618-c22a7230-87a5-4124-b93d-d87ad44e24f8.png)
+![image](https://user-images.githubusercontent.com/41546139/134042929-36ebb683-c82a-4556-9146-525e77a90679.png)
+
+## DevOps Use-Case
+
+![image](https://user-images.githubusercontent.com/41546139/134043310-7476592a-584a-44cb-bd8b-22b7e1c337c4.png)
+![image](https://user-images.githubusercontent.com/41546139/134044498-43fad667-5547-4d2d-bc75-b93428e0e1f7.png)
 
 
 
