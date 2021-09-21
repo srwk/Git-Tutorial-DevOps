@@ -41,6 +41,49 @@ SUMMARY
 
 ![image](https://user-images.githubusercontent.com/41546139/134038385-89907768-0003-49ce-aa60-954c0d229074.png)
 
+2:27:44 Process Before Continuous Integration
+![image](https://user-images.githubusercontent.com/41546139/134149474-9fcdb5a6-2adb-4183-86f7-d2e876a3fc29.png)
+
+
+2:28:29 Problem Before Continuous Integration
+![image](https://user-images.githubusercontent.com/41546139/134149550-d1ffc140-ae32-4ca7-8b01-93cffd176c88.png)
+![image](https://user-images.githubusercontent.com/41546139/134149946-29586b4e-74be-47ac-96bc-eaeccc1ce98c.png)
+
+![image](https://user-images.githubusercontent.com/41546139/134150394-0e448ae4-5508-4558-b997-e685833e48ca.png)
+![image](https://user-images.githubusercontent.com/41546139/134150901-9eaffbea-9486-4e65-b07b-cb76f73c9749.png)
+
+
+2:33:27 What is Continuous Integration?
+![image](https://user-images.githubusercontent.com/41546139/134151136-ecf09865-1e15-4097-b54f-6c243242dbc0.png)
+
+
+2:34:09 Continuous Integration Case Study
+![image](https://user-images.githubusercontent.com/41546139/134151367-aa7c457a-679e-4c8a-bdb8-05ce517dceb6.png)
+![image](https://user-images.githubusercontent.com/41546139/134151587-838e4d1d-8b15-47dc-95be-4d4b1acb9273.png)
+
+
+2:36:48 What is Jenkins?
+![image](https://user-images.githubusercontent.com/41546139/134151765-eedd7f73-d05d-49c7-9f6d-edd169eb435c.png)
+![image](https://user-images.githubusercontent.com/41546139/134151811-bc4e21e8-ae1d-4b02-b5af-7d2e9d65bc0e.png)
+
+
+2:36:58 Jenkins Plugins
+![image](https://user-images.githubusercontent.com/41546139/134152249-5fbcdb4f-ea0a-4f03-8024-fbb954042491.png)
+
+
+2:39:52 Jenkins Example
+![image](https://user-images.githubusercontent.com/41546139/134153411-15610f02-d928-4260-9297-b52ad6d81b05.png)
+![image](https://user-images.githubusercontent.com/41546139/134161184-a65e9acc-7fc9-4a32-90ba-4b9e294ba016.png)
+
+
+
+2:52:39 Shortcomings of Single Jenkins Server
+![image](https://user-images.githubusercontent.com/41546139/134161783-b2e89156-881e-416e-9604-004bd682166f.png)
+
+2:53:19 Jenkins Distributed Architecture
+![image](https://user-images.githubusercontent.com/41546139/134161812-bb7b4c0e-f288-4f74-9fb8-36c9886ec315.png)
+
+
 ## Continuous Delivery
 
 ![image](https://user-images.githubusercontent.com/41546139/134038887-3765bd7b-df33-4d75-a5a8-3cc18d935794.png)
