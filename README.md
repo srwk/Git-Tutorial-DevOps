@@ -62,5 +62,8 @@
 ![image](https://user-images.githubusercontent.com/41546139/134044498-43fad667-5547-4d2d-bc75-b93428e0e1f7.png)
 
 
+## LINUX COMMAND
+![image](https://user-images.githubusercontent.com/41546139/134814621-2db52d29-a916-470c-a23a-cc910240c899.png)
+![image](https://user-images.githubusercontent.com/41546139/134814630-aa319938-65e5-4a5c-9c87-97d240cd36ac.png)
 
 
